@@ -1,0 +1,20 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    dotenv (3.1.0)
+    resolv (0.3.0)
+    resolv-replace (0.1.1)
+      resolv
+
+PLATFORMS
+  arm64-darwin-21
+
+DEPENDENCIES
+  dotenv
+  resolv-replace
+
+RUBY VERSION
+   ruby 3.1.0p0
+
+BUNDLED WITH
+   2.3.18
